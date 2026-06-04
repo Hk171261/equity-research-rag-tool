@@ -1,0 +1,15 @@
+tiktoken
+python-dotenv
+streamlit
+unstructured
+faiss-cpu
+libmagic
+python-magic
+openai
+fastapi
+langchain==0.3.27
+langchain-openai
+langchain-community
+langchain-text-splitters
+newspaper3k
+lxml_html_clean
