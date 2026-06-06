@@ -1,7 +1,6 @@
 # 📈 Equity Research RAG Assistant
 
 A Generative AI-powered Financial Research Assistant built using Retrieval-Augmented Generation (RAG), LangChain, FAISS, and OpenAI GPT-4.
-
 The application enables users to analyze financial news articles, extract key insights, and ask natural language questions against multiple news sources. By combining semantic search with large language models, the platform delivers context-aware answers grounded in the source articles, helping analysts and investors accelerate research workflows.
 ---
 ## 📷 Application Preview
